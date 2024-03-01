@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+background-color: azure;
+margin: 0x;
+padding: 0 ;
+}
+.conatiner{
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: burlywood;
+}
